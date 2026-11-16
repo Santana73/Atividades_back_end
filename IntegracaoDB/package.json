@@ -1,0 +1,16 @@
+{
+  "name": "loja-informatica-api",
+  "version": "1.0.0",
+  "description": "API de Loja de Informática organizada em rotas, controllers, services e dados",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^18.0.10",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.24.6"
+  }
+}
